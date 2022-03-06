@@ -2,7 +2,7 @@
 
 Pirates Vs. Ninjas is a Javascript and HTML5 game made with Phaser. It is a turn based strategy similar to chess with multiple gameplay modes and difficulty settings. It was created on a team of three people, who were each assigned duties such as editing assets, writing code for the opponent side, and programming animations.
 
-Installation Instructions: <br>
+In order to run, you need to bring up a local http server. Here is one way to do this, using Python:<br>
 Open the terminal/command prompt<br>
 Using Python, create a local http server by running the following prompt: python3 -m http.server 1234<br>
 Open a web browser and navigate http://0.0.0.0:1234/<br>
